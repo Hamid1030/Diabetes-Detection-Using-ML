@@ -376,7 +376,6 @@ diabetes-prediction/
 ├── diabetes.csv
 ├── diabetes_prediction.ipynb
 ├── README.md
-└── requirements.txt
 ```
 
 ---
